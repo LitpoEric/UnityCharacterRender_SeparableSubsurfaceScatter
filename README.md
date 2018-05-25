@@ -1,5 +1,4 @@
-![demo1](demo1.png)
-![demo2](demo2.png)
+![SSS](SSS.png)
 # Unity Separable Subsurface Scattering
 ## Features:
 * Realtime Post-processing SSS effects(Separable SSS)
